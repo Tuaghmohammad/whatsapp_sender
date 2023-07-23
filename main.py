@@ -1,3 +1,4 @@
+# WhatsApp Message Sender: Version 1.0 ; Tuahmohmmad Kalte; https://github.com/Tuaghmohammad
 import time  # Import the time module for delays in the script
 import pandas as pd  # Import pandas library for working with Excel data
 from selenium import webdriver  # Import Selenium WebDriver for web automation
